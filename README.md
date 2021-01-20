@@ -1,1 +1,2 @@
-# stone
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
